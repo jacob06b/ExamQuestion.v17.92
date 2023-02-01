@@ -1,0 +1,15 @@
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/bin/Debug/net6.0/ExamQuesiton17
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/bin/Debug/net6.0/ExamQuesiton17.deps.json
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/bin/Debug/net6.0/ExamQuesiton17.runtimeconfig.json
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/bin/Debug/net6.0/ExamQuesiton17.dll
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/bin/Debug/net6.0/ExamQuesiton17.pdb
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.AssemblyInfo.cs
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.dll
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/refint/ExamQuesiton17.dll
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.pdb
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ExamQuesiton17.genruntimeconfig.cache
+/Users/jacobbramwell/Documents/GitHub/ExamQuestion.v17.92/ExamQuesiton17/ExamQuesiton17/obj/Debug/net6.0/ref/ExamQuesiton17.dll
